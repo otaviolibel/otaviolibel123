@@ -3,3 +3,7 @@ Body{
     background:black;
 
 }
+ 
+header {
+    border: solid 2px yellowgreen;
+}
