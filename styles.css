@@ -1,7 +1,7 @@
 Body{
     color:white;
-    background:black;
-    margin: 0px;
+    background:yellow;
+    margin: 1px;
 }
  
 header {
@@ -15,6 +15,7 @@ section {
     background: rgb(255,255,0);
     padding-bottom: 20px;
     padding-top: 20px;
+    display: flex;
 
 
 }
